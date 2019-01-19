@@ -1,4 +1,5 @@
 #!/bin/bash
+# Thanks To Zekkel AR
 # Gausah Pake Acara Recode Segala Ya Anjng Tinggal Make doang ribed bner
 echo " __  __ ____  ____  ____ "
 echo "|  \/  |  _ \| ___||  _ \  ___  ___"
